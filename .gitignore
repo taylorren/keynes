@@ -39,3 +39,8 @@ env/
 # OS
 .DS_Store
 Thumbs.db
+
+# Results and generated figures
+/results/
+/code/results/
+*.png
