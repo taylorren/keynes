@@ -1,5 +1,7 @@
 # 《就业、利息和货币通论》数理与编程解析
 
+[![GitHub repo size](https://img.shields.io/github/repo-size/taylorren/keynes)](https://github.com/taylorren/keynes) [![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/) [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/) [![Notebooks](https://img.shields.io/badge/notebooks-view-blueviolet)](https://github.com/taylorren/keynes/tree/master/code)
+
 本项目旨在通过数学推导和 Python 编程，深入理解约翰·梅纳德·凯恩斯的《就业、利息和货币通论》(The General Theory of Employment, Interest and Money)。
 
 ## 目录结构
@@ -24,6 +26,13 @@
 jupyter notebook
 ```
 然后在浏览器中打开相应的 `.ipynb` 文件。
+
+## 快速链接
+
+- 📁 仓库主页: https://github.com/taylorren/keynes
+- 📓 Notebook 目录: `code/`（交互分析）
+- 🗓 每日进度: `daily_progress/`（请把章节进展写在这里）
+- 🖼 生成图像: `results/`（已被忽略，不纳入版本控制）
 
 ## 计划
 
